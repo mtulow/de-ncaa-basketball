@@ -1,0 +1,364 @@
+team,id,link,espn_abbrv
+Abil Christian,2000.0,abilene-christian-wildcats,ACU
+Air Force,2005.0,air-force-falcons,AFA
+Akron,2006.0,akron-zips,AKR
+Alabama,333.0,alabama-crimson-tide,ALA
+Alabama A&M,2010.0,alabama-am-bulldogs,AAMU
+Alabama State,2011.0,alabama-state-hornets,ALST
+Albany,399.0,albany-great-danes,ALB
+Alcorn State,2016.0,alcorn-state-braves,ALCN
+American,44.0,american-eagles,AMER
+Appalachian St,2026.0,appalachian-state-mountaineers,APP
+AR-Pine Bluff,2029.0,arkansas-pine-bluff-golden-lions,UAPB
+Arizona,12.0,arizona-wildcats,ARIZ
+Arizona State,9.0,arizona-state-sun-devils,ASU
+Arkansas,8.0,arkansas-razorbacks,ARK
+Arkansas State,2032.0,arkansas-state-red-wolves,ARST
+Army,349.0,army-black-knights,ARMY
+Auburn,2.0,auburn-tigers,AUB
+Austin Peay,2046.0,austin-peay-governors,APSU
+Ball State,2050.0,ball-state-cardinals,BALL
+Baylor,239.0,baylor-bears,BAY
+Bellarmine,91.0,bellarmine-knights,BELL
+Belmont,2057.0,belmont-bruins,BEL
+Bethune-Cookman,2065.0,bethune-cookman-wildcats,BCU
+Binghamton,2066.0,binghamton-bearcats,BING
+Boise State,68.0,boise-state-broncos,BSU
+Boston College,103.0,boston-college-eagles,BC
+Boston U,104.0,boston-university-terriers,BU
+Bowling Green,189.0,bowling-green-falcons,BGSU
+Bradley,71.0,bradley-braves,BRAD
+Brown,225.0,brown-bears,BRWN
+Bryant,2803.0,bryant-bulldogs,BRY
+Bucknell,2083.0,bucknell-bison,BUCK
+Buffalo,2084.0,buffalo-bulls,BUFF
+Butler,2086.0,butler-bulldogs,BUT
+BYU,252.0,byu-cougars,BYU
+C. Carolina,324.0,coastal-carolina-chanticleers,CCU
+Cal,25.0,california-golden-bears,CAL
+Cal Baptist,2856.0,california-baptist-lancers,CBU
+Cal Poly,13.0,cal-poly-mustangs,CP
+Campbell,2097.0,campbell-fighting-camels,CAMP
+Canisius,2099.0,canisius-golden-griffins,CAN
+Cent Arkansas,2110.0,central-arkansas-bears,CARK
+Cent Conn St,2115.0,central-connecticut-blue-devils,CCSU
+Cent Michigan,2117.0,central-michigan-chippewas,CMU
+Charleston,232.0,charleston-cougars,COFC
+Charleston So,2127.0,charleston-southern-buccaneers,CHSO
+Charlotte,2429.0,charlotte-49ers,CHAR
+Chattanooga,236.0,chattanooga-mocs,UTC
+Chicago State,2130.0,chicago-state-cougars,CHST
+Cincinnati,2132.0,cincinnati-bearcats,CIN
+Clemson,228.0,clemson-tigers,CLEM
+Cleveland State,325.0,cleveland-state-vikings,CLEV
+Colgate,2142.0,colgate-raiders,COLG
+Colorado,38.0,colorado-buffaloes,COLO
+Colorado State,36.0,colorado-state-rams,CSU
+Columbia,171.0,columbia-lions,COLU
+Coppin State,2154.0,coppin-state-eagles,COPP
+Cornell,172.0,cornell-big-red,CORN
+Creighton,156.0,creighton-bluejays,CREI
+CSU Bakersfield,2934.0,csu-bakersfield-roadrunners,CSUB
+CSU Fullerton,2239.0,csu-fullerton-titans,CSUF
+CSU Northridge,2463.0,csu-northridge-matadors,CSUN
+Dartmouth,159.0,dartmouth-big-green,DART
+Davidson,2166.0,davidson-wildcats,DAV
+Dayton,2168.0,dayton-flyers,DAY
+Delaware,48.0,delaware-blue-hens,DEL
+Delaware State,2169.0,delaware-state-hornets,DSU
+Denver,2172.0,denver-pioneers,DEN
+DePaul,305.0,depaul-blue-demons,DEP
+Detroit Mercy,2174.0,detroit-mercy-titans,DETM
+Drake,2181.0,drake-bulldogs,DRKE
+Drexel,2182.0,drexel-dragons,DREX
+Duke,150.0,duke-blue-devils,DUKE
+Duquesne,2184.0,duquesne-dukes,DUQ
+E Illinois,2197.0,eastern-illinois-panthers,EIU
+E Kentucky,2198.0,eastern-kentucky-colonels,EKU
+E Michigan,2199.0,eastern-michigan-eagles,EMU
+E Washington,331.0,eastern-washington-eagles,EWU
+ECU,151.0,east-carolina-pirates,ECU
+Elon,2210.0,elon-phoenix,ELON
+ETSU,2193.0,east-tennessee-state-buccaneers,ESTU
+Evansville,339.0,evansville-purple-aces,EVAN
+Fair Dickinson,161.0,fairleigh-dickinson-knights,FDU
+Fairfield,2217.0,fairfield-stags,FAIR
+FAU,2226.0,florida-atlantic-owls,FAU
+FGCU,526.0,florida-gulf-coast-eagles,FGCU
+FIU,2229.0,florida-international-panthers,FIU
+Florida,57.0,florida-gators,FLA
+Florida A&M,50.0,florida-am-rattlers,FAMU
+Florida State,52.0,florida-state-seminoles,FSU
+Fordham,2230.0,fordham-rams,FOR
+Fort Wayne,2870.0,purdue-fort-wayne-mastodons,PFW
+Fresno State,278.0,fresno-state-bulldogs,FRES
+Furman,231.0,furman-paladins,FUR
+G Washington,45.0,george-washington-colonials,GW
+Ga Southern,290.0,georgia-southern-eagles,GASO
+Gardner-Webb,2241.0,gardner-webb-bulldogs,WEBB
+George Mason,2244.0,george-mason-patriots,GMU
+Georgetown,46.0,georgetown-hoyas,GTWN
+Georgia,61.0,georgia-bulldogs,UGA
+Georgia State,2247.0,georgia-state-panthers,GAST
+Georgia Tech,59.0,georgia-tech-yellow-jackets,GT
+Gonzaga,2250.0,gonzaga-bulldogs,GONZ
+Grambling,2755.0,grambling-tigers,GRAM
+Grand Canyon,2253.0,grand-canyon-antelopes,GCU
+Green Bay,2739.0,green-bay-phoenix,GP
+Hampton,2261.0,hampton-pirates,HAMP
+Hartford,42.0,hartford-hawks,HART
+Harvard,108.0,harvard-crimson,HARV
+Hawai'i,62.0,hawaii-rainbow-warriors,HAW
+High Point,2272.0,high-point-panthers,HP
+Hofstra,2275.0,hofstra-pride,HOF
+Holy Cross,107.0,holy-cross-crusaders,HC
+Houston,248.0,houston-cougars,HOU
+Houston Baptist,2277.0,houston-baptist-huskies,HCU
+Howard,47.0,howard-bison,HOW
+Idaho,70.0,idaho-vandals,IDHO
+Idaho State,304.0,idaho-state-bengals,IDST
+Illinois,356.0,illinois-fighting-illini,ILL
+Illinois State,2287.0,illinois-state-redbirds,ILST
+Incarnate Word,2916.0,incarnate-word-cardinals,UIW
+Indiana,84.0,indiana-hoosiers,IU
+Indiana State,282.0,indiana-state-sycamores,INST
+Iona,314.0,iona-gaels,IONA
+Iowa,2294.0,iowa-hawkeyes,IOWA
+Iowa State,66.0,iowa-state-cyclones,IOWS
+IUPUI,85.0,iupui-jaguars,IUPU
+Jackson State,2296.0,jackson-state-tigers,JKST
+Jacksonville,294.0,jacksonville-dolphins,JAX
+Jacksonville St,55.0,jacksonville-state-gamecocks,JVST
+JMU,256.0,james-madison-dukes,JMU
+Kansas,2305.0,kansas-jayhawks,KU
+Kansas State,2306.0,kansas-state-wildcats,KSU
+Kennesaw State,338.0,kennesaw-state-owls,KENN
+Kent State,2309.0,kent-state-golden-flashes,KENT
+Kentucky,96.0,kentucky-wildcats,UK
+La Salle,2325.0,la-salle-explorers,LAS
+LA Tech,2348.0,louisiana-tech-bulldogs,LT
+Lafayette,322.0,lafayette-leopards,LAF
+Lamar,2320.0,lamar-cardinals,LAM
+Lehigh,2329.0,lehigh-mountain-hawks,LEH
+Liberty,2335.0,liberty-flames,LIB
+Lindenwood,2815.0,lindenwood-lions,LIN
+Lipscomb,288.0,lipscomb-bisons,LIP
+Little Rock,2031.0,little-rock-trojans,LR
+LIU,112358.0,long-island-university-sharks,LIU
+Long Beach State,299.0,long-beach-state-beach,LBSU
+Longwood,2344.0,longwood-lancers,LONG
+Louisiana,309.0,louisiana-ragin-cajuns,UL
+Louisville,97.0,louisville-cardinals,LOU
+Loyola (MD),2352.0,loyola-md-greyhounds,L-MD
+Loyola Mary,2351.0,loyola-marymount-lions,LMU
+Loyola-Chicago,2350.0,loyola-chicago-ramblers,LUC
+LSU,99.0,lsu-tigers,LSU
+Maine,311.0,maine-black-bears,ME
+Manhattan,2363.0,manhattan-jaspers,MAN
+Marist,2368.0,marist-red-foxes,MRST
+Marquette,269.0,marquette-golden-eagles,MARQ
+Marshall,276.0,marshall-thundering-herd,MRSH
+Maryland,120.0,maryland-terrapins,MD
+Mcneese,2377.0,mcneese-cowboys,MCN
+MD-E Shore,2379.0,maryland-eastern-shore-hawks,MDES
+Memphis,235.0,memphis-tigers,MEM
+Mercer,2382.0,mercer-bears,MER
+Merrimack,2771.0,merrimack-warriors,MRMK
+Miami,2390.0,miami-hurricanes,MIA
+Miami (OH),193.0,miami-oh-redhawks,M-OH
+Michigan,130.0,michigan-wolverines,MICH
+Michigan State,127.0,michigan-state-spartans,MST
+Mid Tennessee,2393.0,middle-tennessee-blue-raiders,MTU
+Milwaukee,270.0,milwaukee-panthers,MILW
+Minnesota,135.0,minnesota-golden-gophers,MINN
+Miss St,344.0,mississippi-state-bulldogs,MSST
+Miss Valley St,2400.0,mississippi-valley-state-delta-devils,MVST
+Missouri,142.0,missouri-tigers,MIZ
+Missouri State,2623.0,missouri-state-bears,MOST
+Monmouth,2405.0,monmouth-hawks,MONM
+Montana,149.0,montana-grizzlies,MT
+Montana State,147.0,montana-state-bobcats,MTST
+Morehead State,2413.0,morehead-state-eagles,MORE
+Morgan State,2415.0,morgan-st-bears,MORG
+Mt St Mary's,116.0,mount-st-marys-mountaineers,MSM
+Murray State,93.0,murray-state-racers,MUR
+N Arizona,2464.0,northern-arizona-lumberjacks,NAU
+N Colorado,2458.0,northern-colorado-bears,UNCO
+N Illinois,2459.0,northern-illinois-huskies,NIU
+N Kentucky,94.0,northern-kentucky-norse,NKU
+Navy,2426.0,navy-midshipmen,NAVY
+NC A&T,2448.0,north-carolina-at-aggies,NCAT
+NC Central,2428.0,north-carolina-central-eagles,NCCU
+NC State,152.0,nc-state-wolfpack,NCST
+Nebraska,158.0,nebraska-cornhuskers,NEB
+Nevada,2440.0,nevada-wolf-pack,NEV
+New Mexico,167.0,new-mexico-lobos,UNM
+New Mexico St,166.0,new-mexico-state-aggies,NMSU
+New Orleans,2443.0,new-orleans-privateers,UNO
+Niagara,315.0,niagara-purple-eagles,NIA
+Nicholls,2447.0,nicholls-colonels,NICH
+NJIT,2885.0,njit-highlanders,NJIT
+Norfolk State,2450.0,norfolk-state-spartans,NORF
+North Alabama,2453.0,north-alabama-lions,UNA
+North Dakota,155.0,north-dakota-fighting-hawks,UND
+North Dakota St,2449.0,north-dakota-state-bison,NDSU
+North Florida,2454.0,north-florida-ospreys,UNF
+North Texas,249.0,north-texas-mean-green,UNT
+Northeastern,111.0,northeastern-huskies,NE
+Northern Iowa,2460.0,northern-iowa-panthers,UNI
+Northwestern,77.0,northwestern-wildcats,NU
+Northwestern St,2466.0,northwestern-state-demons,NWST
+Notre Dame,87.0,notre-dame-fighting-irish,ND
+Oakland,2473.0,oakland-golden-grizzlies,OAK
+Ohio,195.0,ohio-bobcats,OHIO
+Ohio State,194.0,ohio-state-buckeyes,OSU
+Oklahoma,201.0,oklahoma-sooners,OU
+Oklahoma State,197.0,oklahoma-state-cowboys,OKST
+Old Dominion,295.0,old-dominion-monarchs,ODU
+Ole Miss,145.0,ole-miss-rebels,MISS
+Omaha,2437.0,omaha-mavericks,OMA
+Oral Roberts,198.0,oral-roberts-golden-eagles,ORU
+Oregon,2483.0,oregon-ducks,ORE
+Oregon State,204.0,oregon-state-beavers,ORST
+Pacific,279.0,pacific-tigers,PAC
+Penn,219.0,pennsylvania-quakers,PENN
+Penn State,213.0,penn-state-nittany-lions,PSU
+Pepperdine,2492.0,pepperdine-waves,PEPP
+Pitt,221.0,pittsburgh-panthers,PITT
+Portland,2501.0,portland-pilots,PORT
+Portland State,2502.0,portland-state-vikings,PRST
+Presbyterian,2506.0,presbyterian-blue-hose,PRE
+Princeton,163.0,princeton-tigers,PRIN
+Providence,2507.0,providence-friars,PROV
+Purdue,2509.0,purdue-boilermakers,PUR
+PV A&M,2504.0,prairie-view-am-panthers,PV
+Queens University,2511.0,queens-university-royals,QUOC
+Quinnipiac,2514.0,quinnipiac-bobcats,QUIN
+Radford,2515.0,radford-highlanders,RAD
+Rice,242.0,rice-owls,RICE
+Richmond,257.0,richmond-spiders,RICH
+Rider,2520.0,rider-broncs,RID
+Robert Morris,2523.0,robert-morris-colonials,RMU
+Rutgers,164.0,rutgers-scarlet-knights,RUTG
+S Carolina St,2569.0,south-carolina-state-bulldogs,SCST
+S Illinois,79.0,southern-illinois-salukis,SIU
+Sacramento St,16.0,sacramento-state-hornets,SAC
+Sacred Heart,2529.0,sacred-heart-pioneers,SHU
+Saint Joe's,2603.0,saint-josephs-hawks,JOES
+Saint Louis,139.0,saint-louis-billikens,SLU
+Saint Mary's,2608.0,saint-marys-gaels,SMC
+Sam Houston,2534.0,sam-houston-state-bearkats,SHSU
+Samford,2535.0,samford-bulldogs,SAM
+San Diego,301.0,san-diego-toreros,USD
+San Diego State,21.0,san-diego-state-aztecs,SDSU
+San Francisco,2539.0,san-francisco-dons,SF
+San Jose State,23.0,san-jose-st-spartans,SJSU
+Santa Clara,2541.0,santa-clara-broncos,SCU
+SE Louisiana,2545.0,se-louisiana-lions,SELA
+SE Missouri St,2546.0,southeast-missouri-state-redhawks,SEMO
+Seattle,2547.0,seattle-u-redhawks,SEA
+Seton Hall,2550.0,seton-hall-pirates,HALL
+SF Austin,2617.0,stephen-f-austin-lumberjacks,SFA
+Siena,2561.0,siena-saints,SIE
+SIUE,2565.0,siu-edwardsville-cougars,SIUE
+SMU,2567.0,smu-mustangs,SMU
+South Alabama,6.0,south-alabama-jaguars,USA
+South Carolina,2579.0,south-carolina-gamecocks,SC
+South Dakota,233.0,south-dakota-coyotes,SD
+South Dakota St,2571.0,south-dakota-state-jackrabbits,SDST
+Southern,2582.0,southern-jaguars,SOU
+Southern Indiana,88.0,southern-indiana-screaming-eagles,SIU
+Southern Miss,2572.0,southern-miss-golden-eagles,USM
+Southern Utah,253.0,southern-utah-thunderbirds,SUU
+St Bonaventure,179.0,st-bonaventure-bonnies,SBU
+St Francis (BKN),2597.0,st-francis-bkn-terriers,SFNY
+St Francis (PA),2598.0,st-francis-pa-red-flash,SFPA
+St John's,2599.0,st-johns-red-storm,SJU
+St Peter's,2612.0,saint-peters-peacocks,SPU
+St. Thomas - Minnesota,2900.0,st-thomas---minnesota-tommies,STMN
+Stanford,24.0,stanford-cardinal,STAN
+Stetson,56.0,stetson-hatters,STET
+Stonehill,284.0,stonehill-skyhawks,STO
+Stony Brook,2619.0,stony-brook-seawolves,STBK
+Syracuse,183.0,syracuse-orange,SYR
+Tarleton,2627.0,tarleton-texans,TAR
+TCU,2628.0,tcu-horned-frogs,TCU
+Temple,218.0,temple-owls,TEM
+Tenn Tech,2635.0,tennessee-tech-golden-eagles,TNTC
+Tennessee,2633.0,tennessee-volunteers,TENN
+Tennessee St,2634.0,tennessee-state-tigers,TNST
+Texas,251.0,texas-longhorns,TEX
+Texas A&M,245.0,texas-am-aggies,TA&M
+Texas A&M-CC,357.0,texas-am-cc-islanders,AMCC
+Texas A&M-Commerce,2837.0,texas-am-commerce-lions,TAMC
+Texas Southern,2640.0,texas-southern-tigers,TXSO
+Texas State,326.0,texas-state-bobcats,TXST
+Texas Tech,2641.0,texas-tech-red-raiders,TTU
+The Citadel,2643.0,the-citadel-bulldogs,CIT
+Toledo,2649.0,toledo-rockets,TOL
+Towson,119.0,towson-tigers,TOW
+Troy,2653.0,troy-trojans,TROY
+Tulane,2655.0,tulane-green-wave,TULN
+Tulsa,202.0,tulsa-golden-hurricane,TLSA
+UAB,5.0,uab-blazers,UAB
+UC Davis,302.0,uc-davis-aggies,UCD
+UC Irvine,300.0,uc-irvine-anteaters,UCI
+UC Riverside,27.0,uc-riverside-highlanders,UCR
+UC San Diego,28.0,uc-san-diego-tritons,UCSD
+UCF,2116.0,ucf-knights,UCF
+UCLA,26.0,ucla-bruins,UCLA
+UConn,41.0,uconn-huskies,CONN
+UCSB,2540.0,uc-santa-barbara-gauchos,UCSB
+UIC,82.0,uic-flames,UIC
+UL Monroe,2433.0,ul-monroe-warhawks,ULM
+UMass,113.0,umass-minutemen,MASS
+UMass Lowell,2349.0,umass-lowell-river-hawks,UML
+UMBC,2378.0,umbc-retrievers,UMBC
+UMKC,140.0,um-kansas-city-roos,UMKC
+UNC,153.0,north-carolina-tar-heels,UNC
+UNC Asheville,2427.0,unc-asheville-bulldogs,UNCA
+UNC Wilmington,350.0,unc-wilmington-seahawks,UNCW
+UNCG,2430.0,unc-greensboro-spartans,UNCG
+UNH,160.0,new-hampshire-wildcats,UNH
+UNLV,2439.0,unlv-rebels,UNLV
+URI,227.0,rhode-island-rams,URI
+USC,30.0,usc-trojans,USC
+USC Upstate,2908.0,south-carolina-upstate-spartans,UPST
+USF,58.0,south-florida-bulls,USF
+UT Arlington,250.0,ut-arlington-mavericks,UTA
+UT Martin,2630.0,ut-martin-skyhawks,UTM
+UT Rio Grande,292.0,ut-rio-grande-valley-vaqueros,RGV
+Utah,254.0,utah-utes,UTAH
+Utah State,328.0,utah-state-aggies,USU
+Utah Tech,3101.0,utah-tech-trailblazers,UTU
+Utah Valley,3084.0,utah-valley-wolverines,UVU
+UTEP,2638.0,utep-miners,UTEP
+UTSA,2636.0,utsa-roadrunners,UTSA
+UVA,258.0,virginia-cavaliers,UVA
+Valparaiso,2674.0,valparaiso,VAL
+Vanderbilt,238.0,vanderbilt-commodores,VAN
+VCU,2670.0,vcu-rams,VCU
+Vermont,261.0,vermont-catamounts,UVM
+Villanova,222.0,villanova-wildcats,VILL
+Virginia Tech,259.0,virginia-tech-hokies,VT
+VMI,2678.0,vmi-keydets,VMI
+W Carolina,2717.0,western-carolina-catamounts,WCU
+W Illinois,2710.0,western-illinois-leathernecks,WIU
+W Kentucky,98.0,western-kentucky-hilltoppers,WKU
+W Michigan,2711.0,western-michigan-broncos,WMU
+Wagner,2681.0,wagner-seahawks,WAG
+Wake Forest,154.0,wake-forest-demon-deacons,WAKE
+Washington,264.0,washington-huskies,WASH
+Washington St,265.0,washington-state-cougars,WSU
+Weber State,2692.0,weber-state-wildcats,WEB
+West Virginia,277.0,west-virginia-mountaineers,WVU
+Wichita State,2724.0,wichita-state-shockers,WICH
+William & Mary,2729.0,william-mary-tribe,W&M
+Winthrop,2737.0,winthrop-eagles,WIN
+Wisconsin,275.0,wisconsin-badgers,WISC
+Wofford,2747.0,wofford-terriers,WOF
+Wright State,2750.0,wright-state-raiders,WSU
+Wyoming,2751.0,wyoming-cowboys,WYO
+Xavier,2752.0,xavier-musketeers,XAV
+Yale,43.0,yale-bulldogs,YALE
+Youngstown St,2754.0,youngstown-state-penguins,YSU
